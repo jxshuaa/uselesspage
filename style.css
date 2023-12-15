@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
